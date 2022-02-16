@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 4f5a3438-c1f7-193d-270e-d72834dfdb69
 title: Inverse Problems
 uid: 9af93fe1-f03b-efc6-935f-a5a3847bd019

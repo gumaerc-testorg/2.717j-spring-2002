@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 4f5a3438-c1f7-193d-270e-d72834dfdb69
 title: Statistical Optics
 uid: ed19f6b4-dc2a-dd9e-33a6-eee1e0f66080
