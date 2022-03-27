@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 4f5a3438-c1f7-193d-270e-d72834dfdb69
 resourcetype: Image
 title: oct_basic.jpg
 uid: 19461402-5249-e28d-142c-5bd1bd34f0a3

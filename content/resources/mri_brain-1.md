@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 89870863-3262-5828-b671-4a940a03ec0e
 resourcetype: Image
 title: mri_brain.jpg
 uid: 7de316e4-9f62-0b57-39ec-194afc4113c6

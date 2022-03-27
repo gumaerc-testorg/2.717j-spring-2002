@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fae8d94f-3631-18de-4164-3feaec6242b1
 resourcetype: Document
 title: invintro.pdf
 uid: 82a3b2c8-d5ec-eeef-e3c5-330e00d5a23c

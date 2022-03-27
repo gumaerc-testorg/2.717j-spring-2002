@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fae8d94f-3631-18de-4164-3feaec6242b1
 resourcetype: Document
 title: imgq.pdf
 uid: 302f8fb4-454a-52e4-4502-785c2e046203
