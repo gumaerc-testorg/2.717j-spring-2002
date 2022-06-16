@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, grading, and testing.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -11,9 +13,9 @@ Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-[Why Statistical Optics?]({{< baseurl >}}/pages/syllabus/statops)
+{{% resource_link ed19f6b4-dc2a-dd9e-33a6-eee1e0f66080 "Why Statistical Optics?" %}}
 
-[Why Inverse Problems?]({{< baseurl >}}/pages/syllabus/inverse)
+{{% resource_link 9af93fe1-f03b-efc6-935f-a5a3847bd019 "Why Inverse Problems?" %}}
 
 Description for Spring 2002
 ---------------------------

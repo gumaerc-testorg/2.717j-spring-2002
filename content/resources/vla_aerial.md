@@ -4,7 +4,7 @@ description: 'Aerial view of VLA.
 
   Caption: Very Large Array (VLA) Radio Telescope. (Image courtesy of the National
   Radio Astronomy Observatory.)'
-file: /media/courses/2-717j-optical-engineering-spring-2002/47756ad93885a35155b8e8e449e66798_vla_aerial.jpg
+file: /courses/2-717j-optical-engineering-spring-2002/47756ad93885a35155b8e8e449e66798_vla_aerial.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -19,3 +19,6 @@ resourcetype: Image
 title: vla_aerial.jpg
 uid: 47756ad9-3885-a351-55b8-e8e449e66798
 ---
+Aerial view of VLA.
+Caption: Very Large Array (VLA) Radio Telescope. (Image courtesy of the National Radio Astronomy Observatory.)
+

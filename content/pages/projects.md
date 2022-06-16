@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the project assignments for this course, along
+  with some readings.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
