@@ -11,6 +11,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
@@ -21,4 +22,3 @@ uid: 19461402-5249-e28d-142c-5bd1bd34f0a3
 ---
 OCT schematic diagram.
 Caption: Optical Coherence Tomography (OCT). (Image courtesy of LightLab Imaging LLC. Used with permission.)
-

@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: mr_ovation_b.jpg
 uid: ce9659bc-a52e-3399-f635-6368b4bc464c
 ---
 An example photograph for Magnetic Resonance Imaging (MRI) Machine made by GE Medical Systems.
-

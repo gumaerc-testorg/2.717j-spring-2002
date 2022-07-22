@@ -11,6 +11,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
@@ -21,4 +22,3 @@ uid: 47756ad9-3885-a351-55b8-e8e449e66798
 ---
 Aerial view of VLA.
 Caption: Very Large Array (VLA) Radio Telescope. (Image courtesy of the National Radio Astronomy Observatory.)
-

@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: mri_brain.jpg
 uid: 373ddb81-994e-0c64-f2d7-0665853b4bd5
 ---
 Image of patient's brain acquired via 'Filtered Backprojection' technique. (Image courtesy of Prof. Christof Koch. Used with permission.)
-
