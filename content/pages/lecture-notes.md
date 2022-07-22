@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides selected lecture notes from the course.  Not all
+  lectures are available for distribution.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: fae8d94f-3631-18de-4164-3feaec6242b1
 ---
@@ -24,7 +29,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction: Statistical Optics, Inverse Problems ([PDF - 1.3 MB]({{< baseurl >}}/resources/wk1_b))
+Introduction: Statistical Optics, Inverse Problems ({{% resource_link 4020129e-21b4-7c48-dbf7-0c986d0f9508 "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +38,7 @@ Introduction: Statistical Optics, Inverse Problems ([PDF - 1.3 MB]({{< baseurl >
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Fourier Optics Overview ([PDF - 1.4 MB]({{< baseurl >}}/resources/wk2_a))
+Fourier Optics Overview ({{% resource_link 5b0a3acf-433d-cdad-f931-bc6223ff4fe6 "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +166,7 @@ Example: Diffraction From An Aperture
 {{< tdopen >}}
 The Intensity Interferometer  
   
-Speckle ([PDF - 2.4 MB]({{< baseurl >}}/resources/soapps))
+Speckle ({{% resource_link 9e206d69-ad0f-c879-afed-8017826419db "PDF - 2.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +194,7 @@ Effects of Partial Coherence on Imaging
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Information Theory: Entropy, Mutual Information ([PDF]({{< baseurl >}}/resources/invintro))
+Information Theory: Entropy, Mutual Information ({{% resource_link 82a3b2c8-d5ec-eeef-e3c5-330e00d5a23c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -209,7 +214,7 @@ Example: Gaussian Channels
 {{< tdopen >}}
 Convolutions, Sampling, Fourier Transforms  
   
-Information-Theoretic View of Inverse Problems ([PDF]({{< baseurl >}}/resources/imgq))
+Information-Theoretic View of Inverse Problems ({{% resource_link 302f8fb4-454a-52e4-4502-785c2e046203 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
