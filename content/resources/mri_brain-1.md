@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-717j-optical-engineering-spring-2002/7de316e49f620b5739ec194afc4113c6_mri_brain.jpg
+file_size: 40584
 file_type: image/jpeg
 image_metadata:
   caption: ''
