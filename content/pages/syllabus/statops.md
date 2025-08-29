@@ -22,14 +22,12 @@ uid: ed19f6b4-dc2a-dd9e-33a6-eee1e0f66080
 
 {{< resource uuid="47756ad9-3885-a351-55b8-e8e449e66798" >}}
 
-  
 Very Large Array (VLA) Radio Telescope. (Image courtesy of the [National Radio Astronomy Observatory](https://blog.galaxyzoo.org/2013/12/13/were-observing-at-the-very-large-array/).)
 
 The VLA in Socorro, NM, utilizes 27 antennae with an overall aperture between 1.3km and 13km to observe very distant stars and galaxies. The mathematical foundation of the VLA's operation is the van Cittert-Zernicke theorem which allows us to associate the statistical autocorrelation between radio signals received at different antennae (pair-wise) with the structure of the remote radiowave sources.
 
 {{< resource uuid="19461402-5249-e28d-142c-5bd1bd34f0a3" >}}
 
-  
-Optical Coherence Tomography (OCT). (Image courtesy of [LightLab Imaging LLC](http://www.lightlabimaging.com/). Used with permission.)
+Optical Coherence Tomography (OCT). (Image courtesy of LightLab Imaging LLC. Used with permission.)
 
 OCT is a non-invasive medical imaging technique which exploits the coherence properties of light to obtain depth information about tissue. It is based on "white light interferometry," a term which at first may sound like a contradiction (how can white light interfere?). When properly exploited, white light interference can provide excellent depth resolution (better than 1 micron) and decent lateral resolution (~10-30 microns, limited by the irregularities of the tissue).
