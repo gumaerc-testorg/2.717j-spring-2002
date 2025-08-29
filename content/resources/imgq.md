@@ -3,7 +3,7 @@ content_type: resource
 description: Describes Image Quality Metrics elaborating Mutual Information (cross-entropy)
   Metrics, Square Error Metric, Receiver Operator Characteristics (ROC) and then describes
   Heterodyne Detection.
-file: /ol-ocw-studio-app/courses/2-717j-optical-engineering-spring-2002/302f8fb4454a52e44502785c2e046203_imgq.pdf
+file: /courses/2-717j-optical-engineering-spring-2002/302f8fb4454a52e44502785c2e046203_imgq.pdf
 file_size: 337878
 file_type: application/pdf
 learning_resource_types:

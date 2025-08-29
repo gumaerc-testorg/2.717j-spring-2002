@@ -2,7 +2,7 @@
 content_type: resource
 description: An example photograph for Magnetic Resonance Imaging (MRI) Machine made
   by GE Medical Systems.
-file: /ol-ocw-studio-app/courses/2-717j-optical-engineering-spring-2002/ce9659bca52e3399f6356368b4bc464c_mr_ovation_b.jpg
+file: /courses/2-717j-optical-engineering-spring-2002/ce9659bca52e3399f6356368b4bc464c_mr_ovation_b.jpg
 file_size: 5730
 file_type: image/jpeg
 image_metadata:
