@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-717j-optical-engineering-spring-2002/29669c2016862d6f6af2666d2e14b896_mr_ovation_b.jpg
+file: /ol-ocw-studio-app/courses/2-717j-optical-engineering-spring-2002/29669c2016862d6f6af2666d2e14b896_mr_ovation_b.jpg
 file_size: 5730
 file_type: image/jpeg
 image_metadata:
