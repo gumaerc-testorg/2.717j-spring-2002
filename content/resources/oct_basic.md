@@ -4,7 +4,7 @@ description: 'OCT schematic diagram.
 
   Caption: Optical Coherence Tomography (OCT). (Image courtesy of LightLab Imaging
   LLC. Used with permission.)'
-file: /courses/2-717j-optical-engineering-spring-2002/194614025249e28d142c5bd1bd34f0a3_oct_basic.jpg
+file: /ol-ocw-studio-app/courses/2-717j-optical-engineering-spring-2002/194614025249e28d142c5bd1bd34f0a3_oct_basic.jpg
 file_size: 13345
 file_type: image/jpeg
 image_metadata:

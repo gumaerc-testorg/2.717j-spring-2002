@@ -2,7 +2,7 @@
 content_type: resource
 description: Image of patient's brain acquired via 'Filtered Backprojection' technique.
   (Image courtesy of Prof. Christof Koch. Used with permission.)
-file: /courses/2-717j-optical-engineering-spring-2002/373ddb81994e0c64f2d70665853b4bd5_mri_brain.jpg
+file: /ol-ocw-studio-app/courses/2-717j-optical-engineering-spring-2002/373ddb81994e0c64f2d70665853b4bd5_mri_brain.jpg
 file_size: 25071
 file_type: image/jpeg
 image_metadata:

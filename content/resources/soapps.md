@@ -3,7 +3,7 @@ content_type: resource
 description: Discusses Radio Astronomy (Very Large Array, VLA), VLA Images, Michelson
   Stellar Interferometry, Rotational Shear Interferometry (RSI), and Optical Coherence
   Tomography (OCT).
-file: /courses/2-717j-optical-engineering-spring-2002/9e206d69ad0fc879afed8017826419db_soapps.pdf
+file: /ol-ocw-studio-app/courses/2-717j-optical-engineering-spring-2002/9e206d69ad0fc879afed8017826419db_soapps.pdf
 file_size: 2532083
 file_type: application/pdf
 learning_resource_types:
