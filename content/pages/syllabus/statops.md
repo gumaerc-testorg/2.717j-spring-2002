@@ -22,7 +22,7 @@ uid: ed19f6b4-dc2a-dd9e-33a6-eee1e0f66080
 
 {{< resource uuid="47756ad9-3885-a351-55b8-e8e449e66798" >}}
 
-Very Large Array (VLA) Radio Telescope. (Image courtesy of the {{% resource_link "d3f361fb-ecdd-4a4c-a563-4333c16b75c1" "National Radio Astronomy Observatory" %}}.)
+Very Large Array (VLA) Radio Telescope. (Image courtesy of the [National Radio Astronomy Observatory](https://blog.galaxyzoo.org/2013/12/13/were-observing-at-the-very-large-array/).)
 
 The VLA in Socorro, NM, utilizes 27 antennae with an overall aperture between 1.3km and 13km to observe very distant stars and galaxies. The mathematical foundation of the VLA's operation is the van Cittert-Zernicke theorem which allows us to associate the statistical autocorrelation between radio signals received at different antennae (pair-wise) with the structure of the remote radiowave sources.
 
